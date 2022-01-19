@@ -1,0 +1,107 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/*header start*/
+
+
+
+
+nav .logo{
+	width: 14%;
+	display: block;
+
+}
+.menyu li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 3px 5px;
+	font-size: 15px;
+}
+.btn button{
+ background-color:#6d0bba;
+}
+
+
+
+
+
+
+/*
+header end*/
+
+
+
+.kartlar{
+	margin: 12px 0px;
+}
+
+.kartlar span{
+ 
+  float: right;
+}
+.kartlar h3{
+   display: inline-block;
+}
+
+
+
+
+.bttn{
+   background-color:#6919A8;
+   color: white;
+   margin: 50px;
+   padding: 11px 80px;
+   font-size: 17px;
+   
+   
+}
+.bttn:hover{
+   background-color: #4e137d;
+}
+
+
+#atb-bank{
+	margin: 23px;
+}
+
+.xeber a{
+	color: black;
+}
+.xeber a:hover{
+	color: #50127F;
+}
+
+.login{
+	
+    width: 66%;
+}
+
+.login input{
+	padding: 10px 70px;
+
+}
+
+.abune{
+   background-color:#fec524;
+   color: white;
+   margin: 50px;
+   padding: 11px 80px;
+   font-size: 17px;
+}
+
+.abune:hover{
+	background-color: #6919A8;
+}	
+
+
+
+
+
+
+
+
+
